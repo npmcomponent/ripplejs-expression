@@ -2,7 +2,7 @@
   "name": "ripplejs-expression",
   "version": "0.2.2",
   "dependencies": {
-    "component-props": "~1.1.1",
-    "yields-uniq": "git://github.com/npmcomponent/yields-uniq"
+    "component-props": "git://github.com/npmcomponent/component-props.git",
+    "yields-uniq": "git://github.com/npmcomponent/yields-uniq.git"
   }
 }

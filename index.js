@@ -1,5 +1,5 @@
-var props = require('component-props');
-var unique = require('yields-uniq');
+// commented out by npm-component: var props = require('component-props');
+// commented out by npm-component: var unique = require('yields-uniq');
 var cache = {};
 
 function Expression(str) {
